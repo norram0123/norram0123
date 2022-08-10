@@ -5,7 +5,7 @@
 
 **Favorite language**: *Kotlin, Java*
 
-## <img src="https://user-images.githubusercontent.com/102008212/180079714-0d0af206-38c5-4f0a-a91b-32e1396f9f2a.png" width="26px;" /> Recently Activity
+## <img src="https://user-images.githubusercontent.com/102008212/180079714-0d0af206-38c5-4f0a-a91b-32e1396f9f2a.png" width="26px;" /> Recent Activity
 I often created android app which can be used offline before. However, I am recently interested in API and learning how to get connection status, images and so on.
 
 My newest app is "Bit", which can get posts in Instagram and open album (please images for details!). The app uses "Instagram Graph API". Instagram has a function called "album posting", which allows you to combine multiple photos into one post. However, the viewer has to scroll over and over, which is troublesome. Therefore, I created an application that displays a list of posts with an expand button by searching for a user name.
@@ -15,7 +15,7 @@ My newest app is "Bit", which can get posts in Instagram and open album (please 
 <img src="https://user-images.githubusercontent.com/102008212/183113825-69e8130f-dc3c-4586-b882-64bbc238d30c.jpg" width="240dp" />
 </p>
 
-## :blue_book: What Validated Numerics is
+## :blue_book: Validated Numerics (My activity on the campus)
 Floating-point in C (hereinafter, this is called f) can preserve 16 digits. If my computer calculate "1/3", f preserve not "1/3", but "0.3333....". Therefore, computer can not save value perfectly and small errors can be large error.
 
 Simple example is shown below. If I want to calculate the formula
