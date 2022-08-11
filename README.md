@@ -15,6 +15,27 @@ My newest app is "Bit", which can get posts in Instagram and open album (please 
 <img src="https://user-images.githubusercontent.com/102008212/183113825-69e8130f-dc3c-4586-b882-64bbc238d30c.jpg" width="240dp" />
 </p>
 
+[Click here for details!!](https://github.com/norram0123/Bit)
+
+## :coffee: Archive (Other apps)
+<h3>Personal Note (2020~)</h3>
+<p>Notepad app with password function.
+
+It's convenient for people who don't want anyone to see the contents. Too simple!!:laughing:</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/102008212/184160570-b00ca6f3-6f5a-403c-8b00-0d6f5becbe97.jpg" width="120dp" />
+<img src="https://user-images.githubusercontent.com/102008212/184160662-de1f06a9-aa87-49b9-a053-54fdd5ca81a0.jpg" width="120dp" />
+</p>
+
+<h3>Patienter (2021~)</h3>
+<p>Countdown App that can measure not only short time but also very very long time.</p>
+<p>Normal timer and countdown Can only be measured for a few days at most. Therefore, I thought it would be interesting to have a countdown app that could measure several years. The app preserve history and judge whether you were able to achieve the countdown.It,s useful for people who want to count days in a long span.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/102008212/184166314-46c402da-b915-477a-8eeb-045ea87900eb.png" width="240dp" />
+<img src="https://user-images.githubusercontent.com/102008212/184166332-5d07e71e-1f45-4a64-ba98-f5b657da4413.png" width="240dp" />
+<img src="https://user-images.githubusercontent.com/102008212/184166338-e6013ae6-ed68-4834-bbd6-da34a6fe1b48.png" width="240dp" />
+</p>
+
 ## :blue_book: Validated Numerics (My activity on the campus)
 Floating-point in C (hereinafter, this is called f) can preserve 16 digits. If my computer calculate "1/3", f preserve not "1/3", but "0.3333....". Therefore, computer can not save value perfectly and small errors can be large error.
 
