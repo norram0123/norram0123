@@ -8,7 +8,7 @@
 ## <img src="https://user-images.githubusercontent.com/102008212/180079714-0d0af206-38c5-4f0a-a91b-32e1396f9f2a.png" width="26px;" /> Recent Activity
 I often created android app which can be used offline before. However, I am recently interested in API and learning how to get connection status, images and so on.
 
-My newest app is "Bit", which can get posts in Instagram and open album (please images for details!). The app uses "Instagram Graph API". Instagram has a function called "album posting", which allows you to combine multiple photos into one post. However, the viewer has to scroll over and over, which is troublesome. Therefore, I created an application that displays a list of posts with an expand button by searching for a user name.
+My newest app is "Bit", which can get posts in Instagram and open album (Please watch video for details!). The app uses "Instagram Graph API". Instagram has a function called "album posting", which allows you to combine multiple photos into one post. However, the viewer has to scroll over and over, which is troublesome. Therefore, I created an application that displays a list of posts with an expand button by searching for a user name.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/102008212/186944151-44daae4d-4f45-4ede-8455-642f13c6ecdc.png" width="240dp" />
 <img src="https://user-images.githubusercontent.com/102008212/186944143-f009bbc1-8ffe-457c-931b-d80cc62d6858.png" width="240dp" />
